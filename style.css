@@ -36,7 +36,7 @@
 }
 .btn{
     position: relative;
-    background: rgb(80, 42, 42);
+    background: rgb(59, 10, 194);
     display: inline-block;
     color: #fff;
     margin-top: 20px;
@@ -170,7 +170,7 @@ img{
     max-width: calc(50% , 40px);
     padding: 60px 40px;
     margin: 20px;
-    background: #2196f3;
+    background: #1f0ccc81;
 
 }
 .testimonial .content .testimonialBx p{
